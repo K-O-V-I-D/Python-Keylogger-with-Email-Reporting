@@ -46,15 +46,4 @@ If used for any illegal purposes the publisher is not responsible for it.
 
 ![App Screenshot](https://github.com/Animesh-Maji/python-scripts/blob/master/KeyLogger/img/modify.png?raw=true)
 
-
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/animesh-maji/)
-
-
-
-
-## Acknowledgements
-
- - [readme.so](https://readme.so/editor)
  
