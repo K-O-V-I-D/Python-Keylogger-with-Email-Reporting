@@ -46,6 +46,3 @@ If used for any illegal purposes the publisher is not responsible for it.
 
 ![App Screenshot](https://github.com/Animesh-Maji/python-scripts/blob/master/KeyLogger/img/modify.png?raw=true)
 
-
-@!##################################%$$$#$@#%$%#$@#%
- 
